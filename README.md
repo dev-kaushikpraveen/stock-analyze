@@ -8,7 +8,6 @@
 - **Terminal Web UI**: [http://localhost:3000](http://localhost:3000)
 - **Quant & ML API Gateway**: [http://localhost:8000](http://localhost:8000)
 - **Health Check Status**: [http://localhost:8000/api/health](http://localhost:8000/api/health)
-- **Reference Blueprint**: [Google Share Intelligence Blueprint](https://share.google/66OeB63M2ABPQjgCE)
 - **Database Schema**: [backend/database/schema.sql](file:///backend/database/schema.sql)
 - **Executive Project Report**: [Documents/stock analyze/NEXORA_PROJECT_REPORT.md](file:///Users/praveen/Documents/stock%20analyze/NEXORA_PROJECT_REPORT.md)
 
