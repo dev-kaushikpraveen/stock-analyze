@@ -1,0 +1,13 @@
+# NEXORA Backend Production Dependencies
+# The backend is engineered with standard library fallback zero-dep mode,
+# and supports accelerated NumPy/FastAPI/Uvicorn/Pandas for institutional scale.
+
+numpy>=1.24.0
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+yfinance>=0.2.36
+pandas>=2.2.0
+scikit-learn>=1.4.0
+python-multipart>=0.0.9
+requests>=2.31.0
